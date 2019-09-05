@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3865634930</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\inc\pt\lc-switch.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\inc\nb_buffer.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\inc\nb_os.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\inc\nb_parser.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\inc\nb_config.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\inc\pt\pt.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\inc\nb_hw.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\inc\nb.h</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\usart1.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stddef.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\record.r43</file>
+      <file>$PROJ_DIR$\..\..\components\usrlibc\libcheck.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\inc\pt\lc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\record.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\app.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\app.pbi</file>
+      <file>$PROJ_DIR$\..\..\sources\app\record\record.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\record\record_cfg.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\record\record_hw.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\record\record_tbl.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\fm24clxx.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\fm24clxx.r43</file>
+      <file>$PROJ_DIR$\..\..\sources\app\elog\inc\elog.h</file>
+      <file>$PROJ_DIR$\..\..\components\elog\inc\elog_cfg.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\elog\inc\elog_cfg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\systime.pbi</file>
+      <file>$PROJ_DIR$\..\..\components\elog\inc\elog.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\inc\nb_app.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\systime.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xlocale_c.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\wchar.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xlocale.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ctype.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xtls.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xmtx.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xlocaleuse.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\app.h</file>
+      <file>$PROJ_DIR$\..\..\components\usrlibc\libmisc.h</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\systime.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\app_cfg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\digitio.pbi</file>
+      <file>$PROJ_DIR$\..\..\components\usrlibc\libstdc.h</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\bsp_cfg.h</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\digitio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\digitio.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp.pbi</file>
+      <file>$PROJ_DIR$\..\..\sources\app\elog\src\elog.c</file>
+      <file>$PROJ_DIR$\..\..\sources\app\elog\src\elog_async.c</file>
+      <file>$PROJ_DIR$\..\..\sources\app\elog\src\elog_utils.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\project.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\project.d43</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\config\linker\multiplier.xcl</file>
+      <file>$TOOLKIT_DIR$\config\linker\lnk430f448.xcl</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\List\project.map</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+      <file>$PROJ_DIR$\..\..\sources\includes.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdbool.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdlib.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_msp430x44x.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_msp430x44x.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\io430f448.h</file>
+      <file>$TOOLKIT_DIR$\inc\io430.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\nb.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\nb_app.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\nb_parser.r43</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\system_msp430x44x.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\nb_buffer.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\nb_threads.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdarg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\record_hw.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\record_tbl.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\nb_hw_msp430x44x.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\nb_os_empty.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\nb_os_empty.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\nb_hw_msp430x44x.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\elog.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\nb_threads.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\nb_app.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\nb.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\nb_parser.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\nb_buffer.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\usart1.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\record_app.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\elog_utils.r43</file>
+      <file>$PROJ_DIR$\..\..\sources\app\record\record_app.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\project.ulp</file>
+      <file>$PROJ_DIR$\Debug\Obj\analogio.r43</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\analogio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\analogio.pbi</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\port\nb_os_empty.c</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\src\nb.c</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\port\nb_hw_msp430x44x.c</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\src\nb_app.c</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\src\nb_buffer.c</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\src\nb_parser.c</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\src\nb_threads.c</file>
+      <file>$PROJ_DIR$\..\..\sources\app\record\record.c</file>
+      <file>$PROJ_DIR$\..\..\sources\app\record\record_app.c</file>
+      <file>$PROJ_DIR$\..\..\sources\app\record\record_hw.c</file>
+      <file>$PROJ_DIR$\..\..\sources\app\record\record_tbl.c</file>
+      <file>$PROJ_DIR$\..\..\sources\main.c</file>
+      <file>$PROJ_DIR$\..\..\sources\app\app.c</file>
+      <file>$PROJ_DIR$\..\..\sources\app\elog\src\elog_buf.c</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\analogio.c</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\fm24clxx.c</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\digitio.c</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\system_msp430x44x.c</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\usart0.c</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\usart1.c</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\systime.c</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\bsp.c</file>
+      <file>$PROJ_DIR$\..\..\components\elog\src\elog_async.c</file>
+      <file>$PROJ_DIR$\..\..\components\elog\src\elog.c</file>
+      <file>$PROJ_DIR$\..\..\components\elog\src\elog_buf.c</file>
+      <file>$PROJ_DIR$\..\..\components\elog\src\elog_utils.c</file>
+      <file>$PROJ_DIR$\..\..\components\usrlibc\libcheck.c</file>
+      <file>$PROJ_DIR$\..\..\components\usrlibc\libmisc.c</file>
+      <file>$PROJ_DIR$\..\..\components\usrlibc\libstdc.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\libstdc.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\libcheck.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\elog_async.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\elog_buf.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\record_hw.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\elog_async.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\libmisc.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\libmisc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\elog.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\libstdc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\libcheck.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\record_tbl.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\elog_utils.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\elog_buf.pbi</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\fm24clxx.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\record_app.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\usart0.pbi</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\bsp.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\usart0.r43</file>
+      <file>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\usart0.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\usart1.pbi</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\inc\nb_private.h</file>
+      <file>$PROJ_DIR$\..\..\sources\app\nb-iot\inc\nb_typedef.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 58 66</file>
+        </tool>
+        <tool>
+          <name>ULP430</name>
+          <file> 102</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\elog\src\elog.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 143</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 92</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24 56 65 54 67 70 60 22 85 9 61 57 69 55 59 52 72</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 22 24 57 54 56 60 59 52 55 61 9 67 69 70 85 65 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\elog\src\elog_async.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 140</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 137</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 57 69 60 61 70 24 9 56 55 59 52 67 22</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 22 24 57 54 56 60 59 52 55 61 9 67 69 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\elog\src\elog_utils.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 147</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 100</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 57 69 60 61 70 24 9 56 55 59 52 67 22</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 22 24 57 54 56 60 59 52 55 61 9 67 69 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\project.d43</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 63 62 103 14 45 44 92 137 138 100 21 145 141 135 51 79 80 83 88 90 81 84 10 99 139 146 74 28 153 98 64</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\nb-iot\port\nb_os_empty.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 90</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 77 56 55 71 36 57 152 26 67 54 61 73 37 78 9 68 59 52 65 69 70 41 11 38 82 72 42 23 2 76 39</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 2 57 54 56 60 59 52 55 61 73 67 68 65 72 69 70 71 41 37 11 152 42 38 78 77 76 82 36 39 26 23 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\nb-iot\src\nb.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 79</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 77 57 82 156 60 2 65 54 67 56 5 70 4 1 73 61 11 9 68 157 3 6 55 59 52 7 12 69 41 38 42 23 72 71 37 152 78 36 26 76 39</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 7 4 157 57 54 56 60 59 52 55 61 73 67 70 65 72 156 1 5 12 0 3 6 2 68 69 71 41 37 11 152 42 38 78 77 76 82 36 39 26 23 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\nb-iot\port\nb_hw_msp430x44x.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 91</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 88</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52 157 54 67 57 56 37 39 6 70 55 76 78 3 59 1 73 68 154 4 156 2 65 60 61 72 71 152 36 26 69 7 5 12 0 41 11 38 82 42 77 23 9</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 7 4 157 57 54 56 60 59 52 55 61 73 67 70 65 72 156 1 5 12 0 3 6 2 68 69 71 41 37 11 152 42 38 78 77 76 82 36 39 26 23 9 154</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\nb-iot\src\nb_app.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 94</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 80</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 0 77 56 57 82 55 2 52 65 67 5 70 68 59 156 11 9 27 7 60 61 4 1 73 12 69 41 38 42 23 157 3 6 72 71 37 152 78 36 26 76 39</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 27 57 54 56 60 59 52 55 61 7 4 157 73 67 70 65 72 156 1 5 12 0 3 6 2 68 69 71 41 37 11 152 42 38 78 77 76 82 36 39 26 23 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\nb-iot\src\nb_buffer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 83</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 65 54 26 2 72 152 69 156 60 56 55 73 71 36 39 4 1 61 67 37 78 68 157 3 6 70 59 52 7 5 12 0 41 11 38 82 77 42 76 23 9</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 7 4 157 57 54 56 60 59 52 55 61 73 67 70 65 72 156 1 5 12 0 3 6 2 68 69 71 41 37 11 152 42 38 78 77 76 82 36 39 26 23 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\nb-iot\src\nb_parser.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 81</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 77 57 82 157 52 54 67 6 70 56 55 5 3 59 65 11 9 68 4 156 1 2 73 60 61 7 12 69 41 38 42 23 72 71 37 152 78 36 26 76 39</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 7 4 157 57 54 56 60 59 52 55 61 73 67 70 65 72 156 1 5 12 0 3 6 2 68 69 71 41 37 11 152 42 38 78 77 76 82 36 39 26 23 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\nb-iot\src\nb_threads.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 84</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 0 77 57 82 1 73 54 52 67 56 5 70 156 2 65 55 11 9 68 157 3 6 59 7 12 69 41 38 42 23 60 61 72 71 37 152 78 36 26 76 39</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 7 4 157 57 54 56 60 59 52 55 61 73 67 70 65 72 156 1 5 12 0 3 6 2 68 69 71 41 37 11 152 42 38 78 77 76 82 36 39 26 23 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\record\record.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 36 71 57 59 152 26 67 77 17 18 56 55 52 73 37 78 23 68 60 61 65 69 70 41 11 38 82 72 42 76 9 16 39 19</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 16 17 57 54 56 60 59 52 55 61 68 65 67 72 69 73 70 71 41 37 11 152 42 38 78 77 76 82 36 39 26 23 9 18 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\record\record_app.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 150</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 99</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 56 65 77 61 17 11 54 70 82 57 68 60 69 41 38 72 67 9 19 16 59 52 73 71 37 152 78 36 26 42 23 101 76 39</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 101 57 54 56 60 59 52 55 61 16 17 19 68 65 67 72 69 73 70 71 41 37 11 152 42 38 78 77 76 82 36 39 26 23 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\record\record_hw.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 139</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 37 56 55 67 57 52 73 78 77 149 17 59 71 152 36 26 9 68 19 60 61 65 69 70 41 11 38 82 72 42 23 18 76 39</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 18 17 57 54 56 60 59 52 55 61 19 68 65 67 72 69 73 70 71 41 37 11 152 42 38 78 77 76 82 36 39 26 23 9 149</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\record\record_tbl.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 87</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 146</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59 17 57 56 54 55 52 149 60 61 19</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 19 17 57 54 56 60 59 52 55 61 149</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56 77 36 61 71 57 152 26 67 73 37 78 54 60 55 9 82 65 69 70 41 11 38 72 59 52 42 23 68 76 39</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 65 54 56 60 59 52 55 61 67 72 57 69 73 70 71 41 37 11 152 42 38 78 77 76 82 36 39 26 23 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\app.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 77 73 78 37 54 60 56 57 71 152 36 26 67 61 9 65 69 70 41 11 38 82 72 59 52 42 23 68 76 39</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 65 54 56 60 59 52 55 61 67 72 57 69 73 70 71 41 37 11 152 42 38 78 77 76 82 36 39 26 23 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\app\elog\src\elog_buf.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 148</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 138</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 57 69 60 61 70 24 9 56 55 59 52 67 22</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 22 24 57 54 56 60 59 52 55 61 9 67 69 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\analogio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 105</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 103</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 56 54 52 57 59 77 78 60 61 76 104</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 104 57 54 56 60 59 52 55 61 78 77 76</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\fm24clxx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 77 56 70 82 57 65 11 55 54 61 69 41 38 72 67 9 68 59 52 73 71 37 152 78 36 26 42 23 149 76 39</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 149 57 54 56 60 59 52 55 61 68 65 67 72 69 73 70 71 41 37 11 152 42 38 78 77 76 82 36 39 26 23 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\digitio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 56 76 54 61 78 57 55 59 52 77 43</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 43 57 54 56 60 59 52 55 61 78 77 76</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\system_msp430x44x.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 74</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56 52 54 76 55 59 78 60 61 77 57</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 57 54 56 60 59 52 55 61 78 77 76</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\usart0.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 151</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 153</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59 77 57 26 67 152 71 36 54 78 56 55 52 73 37 9 68 60 61 65 69 70 41 11 38 82 72 42 23 154 76 39</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 154 57 54 56 60 59 52 55 61 68 65 67 72 69 73 70 71 41 37 11 152 42 38 78 77 76 82 36 39 26 23 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\bsp\msp430x44x\usart1.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 155</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 98</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 77 65 56 55 60 70 82 57 78 54 61 69 41 38 72 67 9 68 59 52 73 71 37 152 36 26 42 23 8 76 39</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 8 57 54 56 60 59 52 55 61 68 65 67 72 69 73 70 71 41 37 11 152 42 38 78 77 76 82 36 39 26 23 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\bsp\systime.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82 57 60 56 70 69 65 11 55 76 39 68 54 61 41 38 72 42 59 52 73 71 37 152 78 36 26 67 77 23 9</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 38 57 54 56 60 59 52 55 61 68 65 67 72 69 73 70 71 41 37 11 152 42 78 77 76 82 36 39 26 23 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\sources\bsp\bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\elog\src\elog_async.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 140</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 137</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 57 69 60 61 70 23 9 56 55 59 52 67 26</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 26 23 57 54 56 60 59 52 55 61 9 67 69 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\elog\src\elog.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 143</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 92</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23 56 65 54 67 70 60 26 85 9 61 57 69 55 59 52 72</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 26 23 57 54 56 60 59 52 55 61 9 67 69 70 85 65 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\elog\src\elog_buf.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 148</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 138</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 57 69 60 61 70 23 9 56 55 59 52 67 26</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 26 23 57 54 56 60 59 52 55 61 9 67 69 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\elog\src\elog_utils.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 147</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 100</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 57 69 60 61 70 23 9 56 55 59 52 67 26</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 26 23 57 54 56 60 59 52 55 61 9 67 69 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\usrlibc\libcheck.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 136</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 145</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 56 54 9 61 67 11 57 55 59 52</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 11 57 54 56 60 59 52 55 61 9 67</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\usrlibc\libmisc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 142</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 141</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56 73 54 29 55 70 57 52 31 32 59 67 30 37 60 61 33 35 34</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37 57 54 56 60 59 52 55 61 32 31 33 34 73 67 35 29 30 70</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\components\usrlibc\libstdc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 144</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 135</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54 57 60 61 56 41 55 59 52 9 67</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 41 57 54 56 60 59 52 55 61 9 67</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

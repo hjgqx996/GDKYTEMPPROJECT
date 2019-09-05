@@ -1,0 +1,8 @@
+※格式说明：YYYY-MM-DD [LABEL]TEXT
+            YYYY   -4位年
+            MM     -2位月
+            DD     -2位日
+            LABEL  本次提交修改主旨，2个汉字或英文标识，如: 增加-Add, 删除-Delete, 修正-Fixed, 更新-Update, 修改-Changed 等。
+
+
+2019-04-03 [首次]第一次提交,初步搭建完毕框架和部分外设驱动移植
